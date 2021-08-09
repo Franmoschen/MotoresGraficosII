@@ -1,4 +1,2 @@
 # MotoresGraficosII
-Acá poné la descripción del proyecto, link a youtube.
-Tambien subí una Build funcional ( acá al git )
-y esto, borralo.
+Hola profe! la build funcionale esta en la rama main, ya cambio el resto!
